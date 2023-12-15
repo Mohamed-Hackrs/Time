@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Agora Token Server
+    name: Time
     env: node
     repo: https://github.com/AgoraIO-Community/Agora-Node-TokenServer.git
     rootDir: .
